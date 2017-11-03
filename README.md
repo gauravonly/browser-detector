@@ -1,26 +1,40 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
 # \<browser-detector\>
 
-a component to detect the browser user is using in Polymer 2.0
+Browser Detector
 
-## Install the Polymer-CLI
+A component to detect the browser user is using in Polymer 2.0
 
-First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your element locally.
 
-## Viewing Your Element
-
+## Installation
 ```
-$ polymer serve
+$ bower install --save browser-detector
 ```
 
-## Running Tests
+## Using the component
 
 ```
-$ polymer test
+<browser-detector></browser-detector>
 ```
 
-Install the Component
+##Usage
+<browser-detector></browser-detector>
+This component will be abale to detect browsers like chrome, firefox, chrome, opera, edge, ie and blink and it is reflected  and notified back to the attribute named browsername;
 
-bower install --save browser-detector
 
-Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+##Contributing
+
+```
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+
+```
+##License
+
+```
+MIT License
+
+```
