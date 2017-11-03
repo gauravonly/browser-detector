@@ -5,10 +5,18 @@ Browser Detector
 
 A component to detect the browser user is using in Polymer 2.0
 
+<base href="https://raw-dot-custom-elements.appspot.com/gauravkk22/browser-detector/abf4d58c2c7113eb72a469e312f88c4d728f19f9/browser-detector/">
+<!-- START-HIDDEN-SECTION: Add imports and styling here. -->
+<script src="../webcomponentsjs/webcomponents-lite.js"></script>
+<link rel="import" href="browser-detector.html">
+<!-- END-HIDDEN-SECTION: Add the visible part of the demo below. -->
+<browser-detector>...</browser-detector>
+
+
 
 ## Installation
 ```
-$ bower install --save browser-detector
+$ bower install --save gauravkk22/browser-detector
 ```
 
 ## Using the component
