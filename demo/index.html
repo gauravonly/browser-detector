@@ -16,7 +16,8 @@
       <style is="custom-style" include="demo-pages-shared-styles">
       </style>
     </custom-style>
-  </<!-- FIXME(polymer-modulizer):
+  </head>
+  <!-- FIXME(polymer-modulizer):
         These imperative modules that innerHTML your HTML are
         a hacky way to be sure that any mixins in included style
         modules are ready before any elements that reference them are
@@ -50,3 +51,4 @@ $_documentContainer.innerHTML = `<div class="vertical-section-container centered
 
 document.body.appendChild($_documentContainer.content);
 </script>
+</html>

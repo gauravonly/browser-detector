@@ -8,7 +8,7 @@ A component to detect the browser user is using in Polymer 2.0
 
 ## Installation
 ```
-$ bower install --save gauravkk22/browser-detector
+$ npm install polymer-browser-detector
 ```
 
 ## Using the component
@@ -19,7 +19,6 @@ $ bower install --save gauravkk22/browser-detector
 
 ##Usage
 ```
-<script src="../webcomponentsjs/webcomponents-lite.js"></script>
 <link rel="import" href="browser-detector.html">
 <browser-detector>...</browser-detector>
 ```
