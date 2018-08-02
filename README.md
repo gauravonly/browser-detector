@@ -3,7 +3,7 @@
 
 Browser Detector
 
-A component to detect the browser user is using in Polymer 2.0
+A component to detect the browser user is using in Polymer 3.0+
 
 
 ## Installation

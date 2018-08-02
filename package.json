@@ -1,7 +1,7 @@
 {
   "description": "a component to detect the browser user is using",
   "name": "polymer-browser-detector",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
